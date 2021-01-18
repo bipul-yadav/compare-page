@@ -71,3 +71,6 @@ ul li{
 .hide{
     display: none;
 }
+.high_2{
+    border-bottom: 2px solid #833ab8;
+}
